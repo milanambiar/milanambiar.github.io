@@ -9,7 +9,7 @@ name: Mila Nambiar
 description: PhD candidate, MIT Operations Research Center, TEST
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ({{ site.baseurl }}/images/config.png)
+avatar: https://goo.gl/images/PEzuYS
 
 #
 # Flags below are optional
