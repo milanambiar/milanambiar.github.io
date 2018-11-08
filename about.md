@@ -42,3 +42,7 @@ _Other tools_ Excel, Tableau
 # Publications and Preprints
 
 Dynamic Pricing and Learning with Model Misspecification, with David Simchi-Levi and He Wang.  Accepted by _Management Science_ in September 2018.  Available at SSRN: [https://ssrn.com/abstract=2859672](https://ssrn.com/abstract=2859672) or [http://dx.doi.org/10.2139/ssrn.2859672](http://dx.doi.org/10.2139/ssrn.2859672)
+
+Quantifying the Benefits to Consumers for Demand Response with a Statistical Elasticity Model, with Wenxian Yang and Rongshan Yu, _IET Generation, Transmission & Distribution_, vol. 8, no. 3, pp. 503-513, March 2014
+
+Fast System Identification Using Prominent Subspace LMS, with Rongshan Yu and Ying Song, _Digital Signal Processing_, 24, 44-56, 2014
