@@ -41,4 +41,7 @@ _Other tools_ Excel, Tableau
 
 # Publications and Preprints
 
+Dynamic Pricing and Learning with Model Misspecification, with David Simchi-Levi and He Wang.  Accepted by _Management Science_ in September 2018.  Available at SSRN: [https://ssrn.com/abstract=2859672](https://ssrn.com/abstract=2859672) or [http://dx.doi.org/10.2139/ssrn.2859672](http://dx.doi.org/10.2139/ssrn.2859672)
+
+
 
