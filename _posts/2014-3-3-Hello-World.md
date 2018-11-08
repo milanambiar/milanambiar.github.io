@@ -1,11 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: About me
 published: true
 ---
 ---
 layout: post
-title: You're up and running!
+title: About me
 published: true
 ---
 
