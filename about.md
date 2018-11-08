@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: CV
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+### Education
 
-### More Information
+# Massachusetts Institute of Technology, 2013-present
+PhD candidate, Operations Research Center
 
 A place to include any other types of information that you'd like to include about yourself.
 
