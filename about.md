@@ -16,7 +16,7 @@ PhD candidate, Operations Research Center
 BA in Applied Mathematics with a minor in Computer Science
 
 
-# Work Experience
+# Work and Project work Experience
 
 ### EnergySage, Jun-Aug 2016
 
@@ -25,6 +25,11 @@ Data Science Intern
 -Implemented a predictive analytics-based lead scoring algorithm to match online users to solar installers and customer support staff
 
 -Worked on analyzing and visualizing marketplace data for the biannual EnergySage data report
+
+### Analytics Lab, Sept-Dec 2015
+
+-Collaborated with the Christian Science Monitor to devise a personalized news recommendation algorithm for visitors to their online news site
+
 
 ### Institute for Infocomm Research, 2012-2013
 
@@ -59,4 +64,3 @@ National Science Scholarship (PhD), awarded by the Agency for Science Technology
 Dorothea Klumpke Roberts Prize in Mathematics, awarded by the Department of Mathematics, University of California at Berkeley in 2012
 
 National Science Scholarship (BS), awarded by the Agency for Science Technology of Research in 2009
-
