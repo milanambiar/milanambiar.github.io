@@ -5,12 +5,16 @@ permalink: /CV/
 published: true
 ---
 
-### Education
+# Education
 
-# Massachusetts Institute of Technology, 2013-present
+### Massachusetts Institute of Technology, 2013-present
 PhD candidate, Operations Research Center
 
-A place to include any other types of information that you'd like to include about yourself.
+### University of California at Berkeley, 2009-2012
+BA in Applied Mathematics with a minor in Computer Science
+
+
+# Work Experience
 
 ### Contact me
 
