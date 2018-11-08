@@ -15,8 +15,7 @@ PhD candidate, Operations Research Center
 
 BA in Applied Mathematics with a minor in Computer Science
 
-
-# Work and Project work Experience
+# Work and Project Work Experience
 
 ### EnergySage, Jun-Aug 2016
 
