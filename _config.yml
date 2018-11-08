@@ -9,7 +9,7 @@ name: Mila Nambiar
 description: PhD candidate, MIT Operations Research Center, TEST
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://drive.google.com/open?id=1h0wEfANlpG9_cqH-bLlQiVaaUv2Mmryg
+avatar: ({{ site.baseurl }}/images/config.png)
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: 
   instagram:
-  linkedin: www.linkedin.com/in/milashini-nambiar
+  linkedin: milashini-nambiar
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
