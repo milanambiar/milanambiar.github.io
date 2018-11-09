@@ -9,4 +9,4 @@ I am a PhD candidate at MIT's [Operations Research Center](https://orc.mit.edu/)
 
 Before MIT I worked for a year as a research assistant at the Institute for Infocomm Research in Singapore, and before that, I received my BA in Applied Mathematics from the University of California at Berkeley.
 
-My undergraduate and graduate studies have been generously funded until September 2018 by the Agency for Science, Technology and Research in Singapore.
+My undergraduate and graduate studies were generously funded from Aug 2019-Sep 2018 by the Agency for Science, Technology and Research in Singapore.
